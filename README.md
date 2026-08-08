@@ -1,6 +1,7 @@
 # 🛒 SmartCart Customer Segmentation
 
 An unsupervised machine learning project that segments e-commerce customers into meaningful groups based on purchasing behaviour, customer engagement, demographics, and loyalty indicators.
+(images/banner.png)
 
 ---
 
