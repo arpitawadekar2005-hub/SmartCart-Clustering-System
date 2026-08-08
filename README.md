@@ -272,7 +272,7 @@ The final customer profiles identified in the analysis are:
 
 ### Final Customer Segmentation Visualization
 
-![Final Customer Segmentation Results](images/11_final_customer_segmentation_results.png)
+![Final Customer Segmentation Results](images/results.png)
 
 > **Note:** The final visualization above is the presentation of the project outcome and customer segment interpretation. The cluster colours shown in the visualization are used for visual identification of the four customer groups.
 
