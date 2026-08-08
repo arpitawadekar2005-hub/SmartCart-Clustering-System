@@ -311,64 +311,7 @@ Instead of applying the same marketing strategy to every customer, SmartCart can
 
 ---
 
-# 📁 Project Structure
 
-```text
-SmartCart-Customer-Segmentation/
-│
-├── images/
-│   ├── 01_pairplot.png
-│   ├── 02_correlation_heatmap.png
-│   ├── 03_pca_3d_projection.png
-│   ├── 04_elbow_wcss.png
-│   ├── 05_silhouette_score.png
-│   ├── 06_elbow_silhouette_combined.png
-│   ├── 07_kmeans_3d_clusters.png
-│   ├── 08_agglomerative_3d_clusters.png
-│   ├── 09_cluster_distribution.png
-│   ├── 10_income_vs_spending.png
-│   └── 11_final_customer_segmentation_results.png
-│
-├── smartcart.ipynb
-├── smartcart_customers.csv
-├── requirements.txt
-├── README.md
-└── .gitignore
-```
-
----
-
-# ▶️ How to Run
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/arpitawadekar2005-hub/SmartCart-Customer-Segmentation.git
-```
-
-### 2. Navigate to the project
-
-```bash
-cd SmartCart-Customer-Segmentation
-```
-
-### 3. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Open the Jupyter Notebook
-
-```bash
-jupyter notebook smartcart.ipynb
-```
-
-### 5. Run all cells
-
-Make sure the dataset file is available in the same directory as the notebook.
-
----
 
 # 🚀 Future Improvements
 
