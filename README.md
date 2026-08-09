@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="SmartCart - E-Commerce Customer Segmentation System" width="100%">
+  <img src="images/B.png" alt="SmartCart - E-Commerce Customer Segmentation System" width="100%">
 </p>
 
 An unsupervised machine learning project that segments e-commerce customers into meaningful groups based on purchasing behaviour, customer engagement, demographics, and loyalty indicators.
